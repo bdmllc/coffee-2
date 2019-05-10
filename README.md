@@ -1,3 +1,5 @@
+<!--- 10:48 pm May 9, 2019: Video paused at 2:01:14 -->
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
