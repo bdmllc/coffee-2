@@ -1,4 +1,8 @@
-<!--- 10:48 pm May 9, 2019: Video paused at 2:01:14 -->
+<!--- May 11, 2019, 12:24 pm: Video paused at 3:17:55 -->
+<!--  Set product filter -->
+
+<!--  May 12, 2019, 10:55 am: Skipped to Contact Form Section: 4:21:52 -->
+<!--  May 12, 2019, 12:02 pm: Left off at: 4:08:10 -->
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
