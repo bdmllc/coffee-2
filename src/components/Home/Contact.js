@@ -7,7 +7,12 @@ export default function Contact() {
       <Title title="contact us" />
       <div className="row">
         <div className="col-10 col-sm-8 col-md-6 mx-auto">
-          <form method="post" name="Contact" netlify>
+          <form
+            name="contact"
+            method="post"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
+          >
             {/* { name } */}
             <div className="form-group">
               <label htmlFor="name">Name</label>
